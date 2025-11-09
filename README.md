@@ -1,10 +1,7 @@
 # Master-Thesis-SLE-
 # 🎓 Master Thesis — *Schramm–Loewner Evolutions: An Introduction*
 
-**Author:** Yohan Andria  
-**Institution:** Université Paris Dauphine – PSL  
-**Program:** Master 1 Mathématiques Approfondies  
-**Year:** 2025  
+**Authors:** Yohan Andriamampionona and Ruben Cardoso
 **Supervisor:** Antoine Jégo  
 
 ---
