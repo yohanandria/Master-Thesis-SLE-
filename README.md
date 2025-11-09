@@ -1,7 +1,7 @@
 # Master-Thesis-SLE-
 # 🎓 Master Thesis — *Schramm–Loewner Evolutions: An Introduction*
 
-**Authors:** Yohan Andriamampionona and Ruben Cardoso
+**Authors:** Yohan Andriamampionona and Ruben Cardoso//
 **Supervisor:** Antoine Jégo  
 
 ---
